@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bassam_03\\Downloads\\bassam\\JCPC\\FCFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F7E832-841E-4558-8BB2-8F183BFCAD6E}|FCFS.vcxproj|C:\\Users\\bassam_03\\Downloads\\bassam\\JCPC\\FCFS\\FCFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82F7E832-841E-4558-8BB2-8F183BFCAD6E}|FCFS.vcxproj|solutionrelative:FCFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FCFS.cpp",
+              "DocumentMoniker": "C:\\Users\\bassam_03\\Downloads\\bassam\\JCPC\\FCFS\\FCFS.cpp",
+              "RelativeDocumentMoniker": "FCFS.cpp",
+              "ToolTip": "C:\\Users\\bassam_03\\Downloads\\bassam\\JCPC\\FCFS\\FCFS.cpp",
+              "RelativeToolTip": "FCFS.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T19:21:49.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

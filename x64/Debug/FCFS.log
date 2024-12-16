@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FCFS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  FCFS.cpp
+C:\Users\DELL\Downloads\JCPC\FCFS\FCFS.cpp(89,15): warning C4553: '==': result of expression not used; did you intend '='?
+  FCFS.vcxproj -> C:\Users\DELL\Downloads\JCPC\FCFS\x64\Debug\CPU Shudaling.exe
